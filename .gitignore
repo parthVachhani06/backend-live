@@ -1,0 +1,13 @@
+# modules
+node_modules
+
+#lock file
+package-lock.json
+
+#envs
+*.env
+
+
+public
+
+publicadminimg
